@@ -120,3 +120,4 @@ class Forum {
 }
 
 /* End of file Forum.php */
+/* Fin Forum Library */
