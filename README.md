@@ -1,6 +1,6 @@
 # CodeIgniter-Forum-Library
-CodeIgniter Forum Library is the first version of  a simple library for framework CodeIgniter.
-How to use?
+CodeIgniter Forum Library is the first version of  a simple library for framework CodeIgniter.<br><br>
+<b>How to use?</b><br><br>
 Before installation, create a database instance (forum)
 with the following tables:<br>
 
